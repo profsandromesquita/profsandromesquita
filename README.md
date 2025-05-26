@@ -70,7 +70,7 @@ Meu objetivo é **transformar conhecimento em soluções inteligentes para o mun
   <a href="mailto:sandro.mesquita@itia.org.br"><img src="https://img.shields.io/badge/E--mail-Prof.%20Sandro%20Mesquita-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/profsandromesquita"><img src="https://img.shields.io/badge/LinkedIn-Prof.%20Sandro-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/profsandromesquita"><img src="https://img.shields.io/badge/Instagram-@profsandromesquita-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://profsandromesquita.github.io"><img src="https://img.shields.io/badge/Portfólio-Site%20Pessoal-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://profsandromesquita.com"><img src="https://img.shields.io/badge/Portfólio-Site%20Pessoal-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
